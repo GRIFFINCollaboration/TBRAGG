@@ -1,4 +1,4 @@
 TBRAGG
 ======
 
-A spectrum viewer for the TBRAGG detector at TRIUMF
+A spectrum viewer for the TBRAGG Detector at TRIUMF
